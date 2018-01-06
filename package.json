@@ -1,0 +1,15 @@
+{
+  "name": "2018-codelunch",
+  "version": "1.0.0",
+  "description": "CodeLunch presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stéphane Alnet <stephane@shimaore.net> (https://stephane.shimaore.net/)",
+  "license": "Unlicense",
+  "dependencies": {
+    "marked": "^0.3.9",
+    "slide": "git+https://github.com/shimaore/slide.git"
+  }
+}
